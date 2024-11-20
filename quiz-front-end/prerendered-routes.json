@@ -1,0 +1,10 @@
+{
+  "routes": [
+    "/admin-login",
+    "/answer-checking",
+    "/login",
+    "/registration",
+    "/student-dashboard",
+    "/teacher-dashboard"
+  ]
+}
